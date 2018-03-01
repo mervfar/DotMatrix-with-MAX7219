@@ -16,7 +16,8 @@ First you might check your DotMatrix module so as you can find out  some documen
 The module " DotMatrix " in this project has 8x8 pins..
 
 The pin diagram and MAX7219 wiring schema is uploaded in the code section.
-
+Also there is 2 shared library file that we can use..
+<b>Same pin wiring for each libraries</b>
 
 <h2>Have fun with your projects..</h2>
 
